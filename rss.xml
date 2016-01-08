@@ -4,11 +4,18 @@
         <description><![CDATA[Iron Friends]]></description>
         <link>http://ironfriends.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 14:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 14:32:18 GMT</lastBuildDate>
         <atom:link href="http://ironfriends.us/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Iron Friends (@IronFriends_). Official Iron Friends Twitter account sharing experiences, recipes and updates</p>]]></description>
+            <link>https://twitter.com/IronFriends_</link>
+            <guid isPermaLink="false">8283d103-dfcf-4cc0-9801-f5d0415f2b88</guid>
+            <pubDate>Fri, 08 Jan 2016 14:32:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Iron Friends]]></title>
-            <description><![CDATA[<article><h1>Iron Friends</h1><p>The official Iron Friends blog sharing recipes, experiences and updates from our web series</p><img src="http://38.media.tumblr.com/avatar_bb0f0e82609a_128.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Iron Friends</h1><p>Check out our tumblr: http://ironfriends.tumblr.com/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b586dee22e97d4775cb3b998d7859445d4b7c23f.png"></article>]]></description>
             <link>http://ironfriends.tumblr.com/</link>
             <guid isPermaLink="false">130644c3-5a28-483c-bf57-842f1f959f0d</guid>
             <pubDate>Fri, 08 Jan 2016 14:24:34 GMT</pubDate>
