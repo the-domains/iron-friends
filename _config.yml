@@ -1,6 +1,6 @@
 name: Iron Friends
 favicon: null
-layout_spectrum: 0.8959953251760453
+layout_spectrum: 0
 typography_spectrum: 0.4279475889634341
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.8647675805259496
+    - '#161616'
+    - '#ffffff'
+    - '#a1a1a1'
+    - '#3f3f3f'
+    - '#d3d3d3'
+  brandStrength: 0
   lightness: 0.9035143738146871
   saturation: 0.9590615537017584
   rhythmicContrast: 0.1675261426717043
