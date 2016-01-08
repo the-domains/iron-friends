@@ -4,11 +4,18 @@
         <description><![CDATA[Iron Friends]]></description>
         <link>http://ironfriends.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 14:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 14:24:54 GMT</lastBuildDate>
         <atom:link href="http://ironfriends.us/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Iron Friends]]></title>
+            <description><![CDATA[<article><h1>Iron Friends</h1><p>The official Iron Friends blog sharing recipes, experiences and updates from our web series</p><img src="http://38.media.tumblr.com/avatar_bb0f0e82609a_128.png"></article>]]></description>
+            <link>http://ironfriends.tumblr.com/</link>
+            <guid isPermaLink="false">130644c3-5a28-483c-bf57-842f1f959f0d</guid>
+            <pubDate>Fri, 08 Jan 2016 14:24:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Official Iron Friends subreddit * /r/ironfriends]]></title>
-            <description><![CDATA[<article><h1>Official Iron Friends subreddit * /r/ironfriends</h1><p>Iron Friends subreddit, a place where people can discuss the latest from the webseries:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03bb1b5a93fc0720701b7f7e37541340963fd151.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Official Iron Friends subreddit * /r/ironfriends</h1><p>Iron Friends subreddit, a place where people can discuss the latest from the webseries:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b8054b8283668e45a25a9c35f7173d2f962973c.png"></article>]]></description>
             <link>https://www.reddit.com/r/ironfriends</link>
             <guid isPermaLink="false">7ffc271f-3a6d-47f0-b507-4aeb0fcee28d</guid>
             <pubDate>Fri, 08 Jan 2016 14:20:25 GMT</pubDate>
